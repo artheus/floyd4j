@@ -1,7 +1,4 @@
-package se.artheus.floyd4j;
-
-import java.util.ArrayList;
-import java.util.List;
+package se.artheus.velosiped;
 
 public abstract class AbstractDependency<T> implements Dependency<T> {
 

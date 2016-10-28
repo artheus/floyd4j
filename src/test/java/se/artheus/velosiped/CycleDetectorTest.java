@@ -1,9 +1,9 @@
-package se.artheus.floyd4j;
+package se.artheus.velosiped;
 
 import org.junit.Test;
-import se.artheus.floyd4j.dependency.StringDependency;
-import se.artheus.floyd4j.digraph.DependencyDigraph;
-import se.artheus.floyd4j.digraph.DependencyEdge;
+import se.artheus.velosiped.dependency.StringDependency;
+import se.artheus.velosiped.digraph.DependencyDigraph;
+import se.artheus.velosiped.digraph.DependencyEdge;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;

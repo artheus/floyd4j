@@ -1,4 +1,4 @@
-package se.artheus.floyd4j;
+package se.artheus.velosiped;
 
 /**
  * Digraph edge

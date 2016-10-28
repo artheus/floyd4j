@@ -1,6 +1,6 @@
-package se.artheus.floyd4j.dependency;
+package se.artheus.velosiped.dependency;
 
-import se.artheus.floyd4j.AbstractDependency;
+import se.artheus.velosiped.AbstractDependency;
 
 public class StringDependency extends AbstractDependency<String> {
   public StringDependency(int index, String value) {

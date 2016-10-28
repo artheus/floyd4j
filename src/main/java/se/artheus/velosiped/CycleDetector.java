@@ -1,6 +1,6 @@
-package se.artheus.floyd4j;
+package se.artheus.velosiped;
 
-import se.artheus.floyd4j.digraph.DependencyDigraph;
+import se.artheus.velosiped.digraph.DependencyDigraph;
 
 public class CycleDetector {
 

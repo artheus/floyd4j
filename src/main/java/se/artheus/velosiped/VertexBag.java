@@ -1,4 +1,4 @@
-package se.artheus.floyd4j;
+package se.artheus.velosiped;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

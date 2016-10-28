@@ -1,7 +1,7 @@
-package se.artheus.floyd4j.digraph;
+package se.artheus.velosiped.digraph;
 
-import se.artheus.floyd4j.Dependency;
-import se.artheus.floyd4j.Edge;
+import se.artheus.velosiped.Dependency;
+import se.artheus.velosiped.Edge;
 
 public class DependencyEdge implements Edge<Dependency, Dependency> {
 
