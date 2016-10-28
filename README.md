@@ -5,7 +5,7 @@ Velosiped is Russian for "Bicycle", so the name is just lame wordplay.. Sorry..
 
 ### Usage
 
-TODO! write usage.
+For now, See jUnit tests.
 
 ### Thanks to
 
