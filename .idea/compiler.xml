@@ -22,13 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="floyd4j" />
-        <module name="velociped" />
+        <module name="velosiped" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="floyd4j" target="1.5" />
-      <module name="velociped" target="1.5" />
+      <module name="velosiped" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
