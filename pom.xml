@@ -4,6 +4,32 @@
     <groupId>se.artheus.velosiped</groupId>
     <artifactId>velosiped-core</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+
+    <packaging>jar</packaging>
+
+    <name>Velosiped Core</name>
+    <description>Detection library for detecting cyclic dependencies in a digraph</description>
+
+    <developers>
+        <developer>
+            <name>Morten Hekkvang</name>
+            <email>morten.hekkvang@gmail.com</email>
+            <url>https://github.com/artheus</url>
+        </developer>
+    </developers>
+
+    <scm>
+        <url>https://github.com/artheus/velosiped.git</url>
+    </scm>
+
+    <licenses>
+        <license>
+            <name>The Unlicense</name>
+            <url>http://unlicense.org</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -12,5 +38,4 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-    <packaging>jar</packaging>
 </project>
